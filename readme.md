@@ -1,7 +1,5 @@
-## anomaly zone 
-mission arma 3
->some text
-djfjjddddjjdjjd
-djjjd
+## Anomaly Zone - Arma 3 
 
-new text
+> mission arma 3
+
+ work in progress...
