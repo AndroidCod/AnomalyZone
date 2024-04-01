@@ -1,0 +1,42 @@
+
+debriefing = 0;
+
+//showHUD = 0; // 0: disabled - 1: enabled. Default: 1
+/*showHUD[] = {
+	1,	// Scripted HUD (same as showHUD command)
+	1,	// Vehicle and unit info
+	0,	// Vehicle radar [HIDDEN]
+	0,	// Vehicle compass [HIDDEN]
+	1,	// Tank direction indicator
+	1,	// Commanding menu
+	1,	// Group info bar
+	1,	// HUD weapon cursors
+	1,	// Vehicle display panels
+	1,	// "x killed by y" systemChat messages
+	1	// force show drawIcon3D icons
+};
+*/
+//
+#include "defines.hpp"
+
+#include "functions\CfgFunctions.hpp"
+
+//
+#include "configs\cfgItems.hpp"
+#include "configs\cfgMutants.hpp"
+#include "configs\cfgUnits.hpp"
+
+// HUD and DIALOGS
+#include "configs\controls.hpp"
+#include "configs\GearDialog.hpp"
+#include "configs\MyDrinkDialog.hpp"
+#include "configs\WeaponUICalibrationDialog.hpp"
+#include "configs\rscTitles.hpp"
+
+// SOUNDS
+#include "sounds\cfgSounds.hpp"
+
+
+
+
+
